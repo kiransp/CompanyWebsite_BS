@@ -10,8 +10,8 @@
 .navbar-default .navbar-nav > li > a{
 	color:#fff;
 }
-.companyName .jumbotron{
-	color:#fff;
+.navbar-brand{
+	color: #fff !important;
 }
 .emailBox{
 	text-align: center;
