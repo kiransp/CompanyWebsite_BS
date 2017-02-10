@@ -1,21 +1,90 @@
-.navbar{
-	background-color: #f4511e;
-	color: #FFF !important;
+.navbar {
+    background-color: #f4511e;
+    color: #FFF !important;
 }
-.companyName{
-	text-align: center;
-	background-color: #f4511e;
-	color: #FFF !important;
+
+.companyName {
+    text-align: center;
+    background-color: #f4511e;
+    color: #FFF !important;
 }
-.navbar-default .navbar-nav > li > a{
-	color:#fff;
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
 }
-.navbar-brand{
-	color: #fff !important;
+
+.navbar-brand {
+    color: #fff !important;
 }
-.emailBox{
-	text-align: center;
+
+.emailBox {
+    text-align: center;
 }
-h3{
-	color:blue;
+
+.about-company h3 {
+    color: black;
+    font-weight: bold;
+    padding-bottom: 60px;
+}
+
+.about-company h4 {
+    line-height: 33px;
+    font-size: 19px;
+    margin-bottom: 40px;
+}
+
+.about-company {
+    color: #818181;
+    line-height: 27px;
+}
+
+.values {
+    background-color: #f6f6f6;
+}
+
+.about-company {
+    padding: 60px 50px;
+}
+
+.get-touch-btn {
+    font-size: 23px;
+    margin-top: 20px;
+    font-size: 23px;
+    margin-top: 20px;
+    border-color: #ccc;
+    border-radius: 6px !important;
+}
+
+.logo {
+    font-size: 200px;
+    color: #f4511e;
+}
+
+.globe {
+    font-size: 200px;
+    color: #f4511e;
+}
+
+.values h4 {
+    color: #303030;
+}
+
+.services {
+    padding: 60px 50px;
+}
+
+.services-offer {
+    text-align: center;
+}
+
+.offer {
+    text-align: center;
+    font-size: 50px;
+    padding: 36px;
+}
+.offer span{
+	color: #f4511e;
+}
+.offer > span > h4{
+	margin-bottom: 20px;
 }
