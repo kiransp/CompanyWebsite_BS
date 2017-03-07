@@ -85,6 +85,21 @@
 .offer span{
 	color: #f4511e;
 }
-.offer > span > h4{
+.offer > span > 
+h4{
 	margin-bottom: 20px;
+}
+.portfolio{
+	background-color: #f6f6f6;
+}
+ .carousel-inner > .item > p,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+.carousel-inner {
+	    text-align: CENTER;
+    padding: 40px;
+    font-size: 20px;
 }
