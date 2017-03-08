@@ -107,3 +107,9 @@ img{
 width:100%;
 	height:100%;
 }
+.carousel-indicators li{
+border-color: rgb(244, 81, 30);
+}
+.carousel-indicators li.active {
+    background-color: #f4511e;
+}
